@@ -161,6 +161,9 @@ aside > ul{
     list-style-position: inside;
     columns: 2;
 }
+div.baixo{
+    padding-top: 20px;
+}
 footer{
     background-color: var(--cor05);
     color: white;
